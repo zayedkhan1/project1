@@ -49,9 +49,10 @@ header{
 /* failure section style start  from here */
 
 .failure_section{
-    margin: 124px 0;
+    margin: 124px 0px;
     padding: 20px;
-    height: 60vh;
+    height: 80vh;
+
    
 
 }
@@ -83,3 +84,76 @@ margin-bottom: 20px;
 
 }
 /* failure section style end here */
+
+/* My plan section style start here */
+
+.my_plan_section{
+    height: 30vh;
+    margin: 170px 300px;
+    background-color:white;
+    
+
+}
+.plan_title{
+    font-size: 40px;
+    text-align: center;
+    padding: 10px;
+
+
+}
+.main_plan{
+    display: flex;
+    justify-content: space-between;
+}
+.plans{
+   padding: 5px;
+   margin: 20px 0;
+   text-align: center;
+
+
+}
+.plans_name{
+font-size: 30px;
+margin-bottom: 8px;
+
+}
+.plans_description{
+    font-size: 18px;
+    margin-top: 8px;
+}
+
+/* My plan section style end here */
+
+/* Mindset section style start here */
+
+.mindest_section{
+    height: 30vh;
+    margin: 220px 240px;
+    background-image: url('../images/watch.png');
+    background-image: url('../images/gradient2.png ');
+    background-repeat: no-repeat;
+    background-size:950px;
+    width: 1000px;
+    padding:10px;
+    
+}
+.mindset{
+    width: 400px;
+
+}
+.mindset_title{
+    font-size: 40px;
+    color: white;
+
+}
+.btn_secondary{
+    font-size: 20px;
+    padding: 12px;
+    border-radius: 4px;
+    border: 0;
+    color: lightcoral;
+
+}
+
+
+/* Mindset section style end here */
