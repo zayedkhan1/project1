@@ -157,3 +157,62 @@ margin-bottom: 8px;
 
 
 /* Mindset section style end here */
+/* footer section style start here */
+
+footer{
+    background-color: black;
+    height: 60vh;
+    color:white;
+    margin-top: -90px;
+    
+
+}
+.footer{
+    display: flex;
+   justify-content: center;
+   gap: 6rem;
+}
+.information{
+    width: 730px;
+    padding: 70px;
+    justify-content: left;
+
+}
+.information_title{
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.information_description{
+    font-weight: 500;
+
+}
+.contact{
+    padding: 60px;
+
+}
+.contact_title{
+    font-size: 27px;
+    font-weight: 700;
+
+}
+.contact input{
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 300px;
+    border-radius: 4px;
+    border: 0;
+    margin-top: 5px;
+}
+.btn_third{
+    font-size: 22px;
+    font-weight: 700;
+    padding: 14px;
+    color: red;
+    border-radius: 4px;
+    border: 0;
+}
+
+
+/* footer section style start here */
